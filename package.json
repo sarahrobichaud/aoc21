@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch:day1": "nodemon day_1.js",
+    "watch:day2": "nodemon day_2.js"
+  },
+  "keywords": [],
+  "author": "Sarah Robichaud",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
