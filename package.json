@@ -5,12 +5,16 @@
   "scripts": {
     "watch:day1": "nodemon src/day_1.js",
     "watch:day2": "nodemon src/day_2.js",
-    "watch:day3": "nodemon src/day_3.js"
+    "watch:day3": "nodemon src/day_3.js",
+    "test":"jest"
   },
   "keywords": [],
   "author": "Sarah Robichaud",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "jest": "^29.1.2"
   }
 }
